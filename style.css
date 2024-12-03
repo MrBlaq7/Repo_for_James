@@ -1,0 +1,23 @@
+body{
+    background-color: #ECEFF1;
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* head section starts */
+header {
+
+}
+
+nav {
+    display: flex;
+    background-color: #003e8f;
+    align-items: center;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 70px;
+    align-items: center;
+}
+
